@@ -263,7 +263,6 @@ int main(int argc,char* argv[]) {
 	glutKeyboardFunc(keyboard);
 	glutReshapeFunc(reshape);
 	glutReshapeWindow(w,h);
-	printf("Coordinates: x: %.2f, y: %.2f, z: %.2f; distance: %.2f\n", eye.x, eye.y, eye.z, sqrt(pow(eye.x, 2) + pow(eye.y, 2) + pow(eye.z, 2)));
 
 	if(argc > 1) {
 		allowGrader = true;
