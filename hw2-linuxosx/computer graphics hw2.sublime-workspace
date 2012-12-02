@@ -1,0 +1,517 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"class	New Class"
+			],
+			[
+				"clas",
+				"issubclass()	issubclass fn"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"as",
+				"aspect"
+			],
+			[
+				"tra",
+				"transf"
+			],
+			[
+				"mat",
+				"mat4"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"x",
+				"xAxisCross"
+			],
+			[
+				"ro",
+				"rorataionMatrixForAllAxis"
+			],
+			[
+				"loo",
+				"lookAtMatrix"
+			],
+			[
+				"l",
+				"lookAtMatrix"
+			],
+			[
+				"yAx",
+				"yAxisCross"
+			],
+			[
+				"yA",
+				"yAxisCross"
+			],
+			[
+				"r",
+				"rotate"
+			],
+			[
+				"rota",
+				"rotationMatrix"
+			],
+			[
+				"m",
+				"myIdentityMatrix"
+			],
+			[
+				"de",
+				"degrees"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"vec",
+				"vec3"
+			],
+			[
+				"e",
+				"eye"
+			],
+			[
+				"ra",
+				"randrange"
+			],
+			[
+				"num",
+				"number_to_name"
+			],
+			[
+				"name",
+				"name_to_number"
+			],
+			[
+				"f",
+				"future_value"
+			],
+			[
+				"da",
+				"data1"
+			],
+			[
+				"PatR",
+				"PatGseeR"
+			],
+			[
+				"Ps",
+				"PseeRatR"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/UserHDD/igormarkelov/Desktop/untitled.matlab",
+			"settings":
+			{
+				"buffer_size": 3,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/MATLAB.sublime-build",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"matl",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"packa ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Enable Plugin"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"clang",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"cuda",
+				"Set Syntax: CUDA C++"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inte",
+				"SublimeCodeIntel: Enable Live Autocompletion"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"sta",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inclu",
+				"Snippet: #include <…>"
+			],
+			[
+				"sni",
+				"Snippet: #include <…>"
+			],
+			[
+				"whil",
+				"Snippet: Do While Loop"
+			],
+			[
+				"for",
+				"Snippet: For Loop"
+			],
+			[
+				"main",
+				"Snippet: main()"
+			]
+		],
+		"width": 361.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/UserHDD/igormarkelov/Documents/git/ScientificComputation/15-Spectral mehod implementation/wvort_rhs.m",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/ScientificComputation/15-Spectral mehod implementation/advectiondiffusion.m",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/User/MATLAB.sublime-build",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/User/untitled.sublime-build",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/test.py",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw2-linuxosx/main.cpp",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw2-linuxosx/Transform.cpp",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw2-linuxosx/computer graphics hw2.sublime-project",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/python/temp.py",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/python/01-mini-project 1/rpsls.py",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/python/test2.py",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/backup/SAAS/ex1/part1.rb",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/Volumes/UserHDD/igormarkelov/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw2-linuxosx/Makefile",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw1-linuxosx/main.cpp",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw1-linuxosx/Transform.cpp",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw1-linuxosx/Discussion – CS184.1x.pdf",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw1-linuxosx/Transform.h",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/computer graphics/hw1-linuxosx/shaders.h",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/ScientificComputation/08-Homework 4/homework4a.m",
+		"/Volumes/UserHDD/igormarkelov/Downloads/hw0-linuxosx.ca360d335628/hw0-linuxosx/mytest3.cpp",
+		"/Volumes/UserHDD/igormarkelov/Downloads/hw1-linuxosx.5fe0bcfcb514/hw1-linuxosx/Transform.cpp",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/python/2miniproject_guessthenumber.py",
+		"/Volumes/UserHDD/igormarkelov/Downloads/hw0-linuxosx.ca360d335628/hw0-linuxosx/geometry3.h",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/st101/untitled.py",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/ScientificComputation/02-Homework 1. Quantum Harmonic Oscillator/runge_kutta_4th_steppin_method.m",
+		"/Volumes/UserHDD/igormarkelov/Library/Preferences/com.apple.loginwindow.plist",
+		"/Volumes/UserHDD/igormarkelov/Library/Preferences/com.apple.loginitems.plist",
+		"/Volumes/UserHDD/igormarkelov/Documents/учеба/МЭИ/vol2/6 семестр/МЖГ/ЛАБА2_МЖГ.MCD",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/SAAS/ex1/part1.rb",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/Machine-Learning/ex4/nnCostFunction.m",
+		"/Volumes/UserHDD/igormarkelov/Documents/git/Machine-Learning/README.md",
+		"/Users/igormarkelov/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Untitled/Wolfram.Research.Mathematica.v8.0.0.0.Incl.Keymaker-AGAiN/mathpass"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"glloadma",
+			"w",
+			"degrees*pi/180",
+			"u",
+			"v",
+			"u",
+			"w",
+			"degrees",
+			"]",
+			"[",
+			"z",
+			"y",
+			"(a)",
+			"a",
+			"x",
+			"a",
+			"как",
+			"trans",
+			"scissors",
+			"	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"= ",
+			"result",
+			"v",
+			"u",
+			"alpha",
+			"v",
+			"eye",
+			"v",
+			"u",
+			"degrees*pi/180",
+			")",
+			"(",
+			"axis.z",
+			"axis.y",
+			"(degrees)",
+			"axis.x",
+			"degrees",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/UserHDD/igormarkelov/Desktop/untitled.matlab",
+					"settings":
+					{
+						"buffer_size": 3,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Matlab/Matlab.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 273.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tra",
+				"Transform.cpp"
+			],
+			[
+				"",
+				"computer graphics/hw1-linuxosx/main.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true
+}
